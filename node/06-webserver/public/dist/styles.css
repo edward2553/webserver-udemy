@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@600&display=swap');
+*{
+    margin: 0px;
+}
+body{
+    font-family: 'Gothic A1', sans-serif;
+}
+.jumbotronStyles{
+    width: 80%;
+    margin: auto;
+}
+
+.imgDiv{
+    width: 50%;
+    margin: auto;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    padding-left: 37rem;
+}
